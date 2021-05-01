@@ -125,7 +125,7 @@ def searchPlayer(name):
 
 @app.route('/')
 def hello_world():
-    return 'Hello World!'
+    return 'DREAM XV by HEXA SQUAD'
 
 @app.route('/bestTeam', methods =["GET"])
 def getBestTeam():
